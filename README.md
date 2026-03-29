@@ -29,8 +29,11 @@ Inorder to model a chessboard within a data structure a 2D array was used with t
 5. **Screen**:
 Game Screen
 
-    1. Main Screen: 
-     !![Alt text here](project_image/Screenshot 2026-03-28 211719.png)<br/><br/>
+    1. Main Screen:
+  <img width="793" height="536" alt="Screenshot 2026-03-28 211719" src="https://github.com/user-attachments/assets/41b15688-02fa-409a-b980-7e3b3c6c3c66" />
+
+
+
     2. Starting position:
     ![Alt text for the image](project_image/Screenshot 2026-03-28 184936.png)<br/><br/>
     3. The GUI guiding player which moves he can play after he clicked on his left white queen :
