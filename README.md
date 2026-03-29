@@ -30,13 +30,13 @@ Inorder to model a chessboard within a data structure a 2D array was used with t
 Game Screen
 
     1. Main Screen: 
-    ![image alt](project_image/Screenshot 2026-03-28 211719.png)<br/><br/>
+     ![Alt text for the image](project_image/Screenshot 2026-03-28 211719.png)<br/><br/>
     2. Starting position:
-    ![image alt](project_image/Screenshot 2026-03-28 184936.png)<br/><br/>
-    4. The GUI guiding player which moves he can play after he clicked on his left white queen :
-    ![image alt](project_image/Screenshot 2026-03-28 184829.png)<br/><br/>
-    5. Game End screen:
-    ![image alt](project_image/Screenshot 2026-03-28 184726.png)<br/><br/>
+    ![Alt text for the image](project_image/Screenshot 2026-03-28 184936.png)<br/><br/>
+    3. The GUI guiding player which moves he can play after he clicked on his left white queen :
+    ![Alt text for the image](project_image/Screenshot 2026-03-28 184829.png)<br/><br/>
+    4. Game End screen:
+    ![Alt text for the image](project_image/Screenshot 2026-03-28 184726.png)<br/><br/>
 
 > **WARNING!!!**
 >
