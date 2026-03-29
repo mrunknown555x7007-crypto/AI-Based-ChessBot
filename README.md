@@ -105,4 +105,4 @@ The AI for the game could certainly be improved. An average chess player can eas
 1.   Change depth=2 for a very fast, but slightly less strategic AI.
 
 2. ​Change depth=4 for a much harder AI (Note: This will significantly increase the time it takes for the AI to make a move!).
-    # AUTHER : SAMRIDH MISHRA
+    # AUTHOR : SAMRIDH MISHRA
