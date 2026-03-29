@@ -30,13 +30,13 @@ Inorder to model a chessboard within a data structure a 2D array was used with t
 Game Screen
 
     1. Main Screen: 
-    ![index page](C:\Users\samri\Downloads\CHESS\project_image\Screenshot 2026-03-28 211719.png)<br/><br/>
+    ![image alt](project_image/Screenshot 2026-03-28 211719.png)<br/><br/>
     2. Starting position:
-    ![index page](https://raw.githubusercontent.com/ahmadrazakhawaja/chess-game-AI-project/master/project_images/Screenshot%202021-03-04%20at%2010.02.30%20PM.png)<br/><br/>
-    4. The GUI guiding player which moves he can play after he clicked on his left white knight:
-    ![index page](https://raw.githubusercontent.com/ahmadrazakhawaja/chess-game-AI-project/master/project_images/Screenshot%202021-03-04%20at%2010.04.24%20PM.png)<br/><br/>
+    ![image alt](project_image/Screenshot 2026-03-28 184936.png)<br/><br/>
+    4. The GUI guiding player which moves he can play after he clicked on his left white queen :
+    ![image alt](project_image/Screenshot 2026-03-28 184829.png)<br/><br/>
     5. Game End screen:
-    ![index page](https://raw.githubusercontent.com/ahmadrazakhawaja/chess-game-AI-project/master/project_images/Screenshot%202021-03-04%20at%2010.08.36%20PM.png)<br/><br/>
+    ![image alt](project_image/Screenshot 2026-03-28 184726.png)<br/><br/>
 
 > **WARNING!!!**
 >
