@@ -44,5 +44,5 @@ The project relies on two primary external libraries:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/pychess-ai.git](https://github.com/yourusername/pychess-ai.git)
+   git clone [https://github.com/yourusername/pychess-ai.git]([https://github.com/yourusername/pychess-ai.git](https://github.com/mrunknown555x7007-crypto/AI-Based-ChessBot.git))
    cd pychess-ai
