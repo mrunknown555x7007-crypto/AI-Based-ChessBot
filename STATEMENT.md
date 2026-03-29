@@ -8,7 +8,7 @@ A fully playable, interactive desktop chess application built in Python. This pr
 
 ---
 
-## 📖 Table of Contents
+##  Table of Contents
 - [Features](#-features)
 - [Demo / Screenshots](#-demo--screenshots)
 - [Prerequisites](#-prerequisites)
@@ -20,7 +20,7 @@ A fully playable, interactive desktop chess application built in Python. This pr
 
 ---
 
-## ✨ Features
+##  Features
 
 * **Interactive GUI:** A clean 2D graphical interface built with Pygame, featuring standard chess piece Unicode rendering.
 * **Smart AI Opponent:** Play as White against a Black AI that evaluates material advantage and positional strategy using piece-square tables.
@@ -30,17 +30,7 @@ A fully playable, interactive desktop chess application built in Python. This pr
 
 ---
 
-## 📸 Demo / Screenshots
-
-*(Note: Add your screenshots to an `assets` folder and link them here)*
-
-| Start Position | Legal Moves | Checkmate Overlay |
-| :---: | :---: | :---: |
-| ![Start](https://via.placeholder.com/250x250.png?text=Start+Position) | ![Moves](https://via.placeholder.com/250x250.png?text=Legal+Move+Dots) | ![Checkmate](https://via.placeholder.com/250x250.png?text=Checkmate+Screen) |
-
----
-
-## 🛠️ Prerequisites
+##  Prerequisites
 
 To run this project, you will need **Python 3.8+** installed on your system.
 
@@ -50,7 +40,7 @@ The project relies on two primary external libraries:
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 1. **Clone the repository:**
    ```bash
