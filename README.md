@@ -31,15 +31,19 @@ Game Screen
 
     1. Main Screen:
   <img width="793" height="536" alt="Screenshot 2026-03-28 211719" src="https://github.com/user-attachments/assets/41b15688-02fa-409a-b980-7e3b3c6c3c66" />
-
-
-
+  
     2. Starting position:
-    ![Alt text for the image](project_image/Screenshot 2026-03-28 184936.png)<br/><br/>
-    3. The GUI guiding player which moves he can play after he clicked on his left white queen :
-    ![Alt text for the image](project_image/Screenshot 2026-03-28 184829.png)<br/><br/>
+  
+<img width="935" height="947" alt="Screenshot 2026-03-28 184936" src="https://github.com/user-attachments/assets/cc4628fa-b808-4006-aab0-00e1ab88c2be" />
+
+
+ 3. The GUI guiding player which moves he can play after he clicked on his left white queen :
+
+    <img width="946" height="965" alt="Screenshot 2026-03-28 184829" src="https://github.com/user-attachments/assets/ca7d153e-c90b-419c-93b7-03d1237ffc8f" />
+
     4. Game End screen:
-    ![Alt text for the image](project_image/Screenshot 2026-03-28 184726.png)<br/><br/>
+ 
+<img width="1908" height="1003" alt="Screenshot 2026-03-28 184726" src="https://github.com/user-attachments/assets/05fbd45a-07da-4a67-b269-bee33354e47c" />
 
 > **WARNING!!!**
 >
