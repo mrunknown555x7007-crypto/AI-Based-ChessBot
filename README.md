@@ -30,7 +30,7 @@ Inorder to model a chessboard within a data structure a 2D array was used with t
 Game Screen
 
     1. Main Screen: 
-     ![image alt]([project_image/Screenshot 2026-03-28 211719.png](https://github.com/mrunknown555x7007-crypto/AI-Based-ChessBot/blob/main/project_image/Screenshot%202026-03-28%20211719.png?raw=true))<br/><br/>
+     !![Alt text here](project_image/Screenshot 2026-03-28 211719.png)<br/><br/>
     2. Starting position:
     ![Alt text for the image](project_image/Screenshot 2026-03-28 184936.png)<br/><br/>
     3. The GUI guiding player which moves he can play after he clicked on his left white queen :
