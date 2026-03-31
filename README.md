@@ -10,13 +10,19 @@ A fully playable, interactive desktop chess application built in Python. This pr
 
 ##  Table of Contents
 - [Features](#-features)
+- [Abstract](#-Abstract)
+- [Objectives](#-Objectives)
 - [Demo / Screenshots](#-demo--screenshots)
 - [Prerequisites](#-prerequisites)
 - [Installation](#-installation)
 - [How to Play](#-how-to-play)
 - [How the AI Works](#-how-the-ai-works)
 - [Customization](#-customization)
-- [License](#-license)
+- [Advantages &Limitations]
+- [Future Scope]
+- [Conclusion](#-Conclusion)
+- [References](#-References)
+  
 
 # Chess Game {MINIMAX Alogorithm}
 ## Technologies used:
